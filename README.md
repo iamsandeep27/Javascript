@@ -23,11 +23,12 @@ Hello everyone We are learning how to use github.
  # ls 
   it is used to list the file 
 
-  # git add <filename>
+  # git add . <filename>
    add new or changed files in your working directory to the Git staging area
 
  # git commit -m "some message"
   it is a record of change what we have change 
 
 
-
+# git push origin main
+ to send local code to remote accesss 
