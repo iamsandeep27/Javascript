@@ -19,8 +19,41 @@ console.table({
      accountPassword: typeof accountPassword,
      accountCity: typeof accountCity , accountDistrict:typeof accountDistrict});
 
+console.error("constant can't change ");
 
 
 
 
 // try to use let and const instead of  using var 
+
+
+ 
+ //String 
+ let firstName="Sandeep"
+ let lastName ="Sharma"
+
+ // number 
+  let age=21;
+
+  // boolean 
+  let online = true;
+
+//   undefined
+let k;
+
+
+// null
+let country = "";
+ 
+// symbol for unique 
+
+
+
+//OBJECT
+
+console.table([typeof online, typeof k , typeof firstName, typeof lastName, typeof age , typeof country, ]);
+console.log(eval("3"+"5"));
+
+
+
+
