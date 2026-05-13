@@ -19,5 +19,5 @@ const strNew = str.split();
    const monthString = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec";
     const comma = monthString.split(",");
     console.log(comma[3]);
-
+// Apr
     console.log(monthString.blink());
